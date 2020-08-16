@@ -1,25 +1,36 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Header from './components/header';
+import Main from './components/main';
+import { ThemeProvider, Container } from '@material-ui/core';
+import theme from './theme';
+import { Person } from './components/personselect';
+import WeekPage from './components/weekpage';
+import useStyles from './styles';
 
 function App() {
+  const [user, setUser] = useState<Person | undefined>(undefined);
+  const classes = useStyles();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <ThemeProvider theme={theme}>
+        <Router>
+          <Header user={user} setUser={p => setUser(p)} />
+          <Container
+              className={classes.container}
+              maxWidth='lg'
+          >
+            <Switch>
+              <Route path='/week/:id'>
+                <WeekPage user={user} />
+              </Route>
+              <Route path='/'>
+                <Main />
+              </Route>
+            </Switch>
+          </Container>
+        </Router>
+      </ThemeProvider>
   );
 }
 
