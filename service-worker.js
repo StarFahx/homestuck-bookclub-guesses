@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/homestuck-bookclub-guesses/precache-manifest.9d7e9be6ef99a280d174e87d9dfaa22c.js"
+  "/homestuck-bookclub-guesses/precache-manifest.aeb3b506ff8585dce1c5469f8a17c666.js"
 );
 
 self.addEventListener('message', (event) => {
