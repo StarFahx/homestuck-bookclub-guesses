@@ -20,7 +20,7 @@ export default function Header(props : HeaderProps) {
                     >
                         <Button>
                             <img 
-                                src='/sburb.png'
+                                src='%PUBLIC_URL%/sburb.png'
                                 className={classes.icon}
                             />
                         </Button>
