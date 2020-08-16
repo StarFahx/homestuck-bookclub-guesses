@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cf5eb8a7a80383c0fc032fc1668ce31",
+    "revision": "7a2b5ea6ccbb7a48d5424076dfdb068b",
     "url": "/homestuck-bookclub-guesses/index.html"
   },
   {
-    "revision": "cbd88b0fb79079f7dead",
+    "revision": "6f2ed0870e70a2d03fbf",
     "url": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cbd88b0fb79079f7dead",
-    "url": "/homestuck-bookclub-guesses/static/js/main.15ce8414.chunk.js"
+    "revision": "6f2ed0870e70a2d03fbf",
+    "url": "/homestuck-bookclub-guesses/static/js/main.6e5620ec.chunk.js"
   },
   {
     "revision": "85fda248c1e0db5a7ba8",
