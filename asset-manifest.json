@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css",
-    "main.js": "/homestuck-bookclub-guesses/static/js/main.6e5620ec.chunk.js",
-    "main.js.map": "/homestuck-bookclub-guesses/static/js/main.6e5620ec.chunk.js.map",
+    "main.js": "/homestuck-bookclub-guesses/static/js/main.3725fd5b.chunk.js",
+    "main.js.map": "/homestuck-bookclub-guesses/static/js/main.3725fd5b.chunk.js.map",
     "runtime-main.js": "/homestuck-bookclub-guesses/static/js/runtime-main.8b7ce1ac.js",
     "runtime-main.js.map": "/homestuck-bookclub-guesses/static/js/runtime-main.8b7ce1ac.js.map",
     "static/js/2.4e77cc23.chunk.js": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js",
     "static/js/2.4e77cc23.chunk.js.map": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js.map",
     "index.html": "/homestuck-bookclub-guesses/index.html",
-    "precache-manifest.77dbe4ebc98ab506aab536446f9c514b.js": "/homestuck-bookclub-guesses/precache-manifest.77dbe4ebc98ab506aab536446f9c514b.js",
+    "precache-manifest.2e0bb60cee2cd0878bff85b7aa09ec42.js": "/homestuck-bookclub-guesses/precache-manifest.2e0bb60cee2cd0878bff85b7aa09ec42.js",
     "service-worker.js": "/homestuck-bookclub-guesses/service-worker.js",
     "static/css/main.830c9fdf.chunk.css.map": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css.map",
     "static/js/2.4e77cc23.chunk.js.LICENSE.txt": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8b7ce1ac.js",
     "static/js/2.4e77cc23.chunk.js",
     "static/css/main.830c9fdf.chunk.css",
-    "static/js/main.6e5620ec.chunk.js"
+    "static/js/main.3725fd5b.chunk.js"
   ]
 }
