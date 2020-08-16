@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "051bd69060ebfb9e78f46d479239b21d",
+    "revision": "1c1f258c162862e703903c6f05646649",
     "url": "/homestuck-bookclub-guesses/index.html"
   },
   {
-    "revision": "15c12e2049c65f61bc7d",
+    "revision": "e4d68e977801c95a17ce",
     "url": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css"
   },
   {
-    "revision": "6f424e291e013036807c",
-    "url": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js"
+    "revision": "041b9bca9e02c06f3233",
+    "url": "/homestuck-bookclub-guesses/static/js/2.77742dc4.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/homestuck-bookclub-guesses/static/js/2.4e77cc23.chunk.js.LICENSE.txt"
+    "url": "/homestuck-bookclub-guesses/static/js/2.77742dc4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15c12e2049c65f61bc7d",
-    "url": "/homestuck-bookclub-guesses/static/js/main.c8cdf749.chunk.js"
+    "revision": "e4d68e977801c95a17ce",
+    "url": "/homestuck-bookclub-guesses/static/js/main.ff47c11b.chunk.js"
   },
   {
     "revision": "85fda248c1e0db5a7ba8",
