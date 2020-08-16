@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css",
-    "main.js": "/homestuck-bookclub-guesses/static/js/main.1c826874.chunk.js",
-    "main.js.map": "/homestuck-bookclub-guesses/static/js/main.1c826874.chunk.js.map",
+    "main.js": "/homestuck-bookclub-guesses/static/js/main.fb8ab80f.chunk.js",
+    "main.js.map": "/homestuck-bookclub-guesses/static/js/main.fb8ab80f.chunk.js.map",
     "runtime-main.js": "/homestuck-bookclub-guesses/static/js/runtime-main.8b7ce1ac.js",
     "runtime-main.js.map": "/homestuck-bookclub-guesses/static/js/runtime-main.8b7ce1ac.js.map",
-    "static/js/2.5a15822b.chunk.js": "/homestuck-bookclub-guesses/static/js/2.5a15822b.chunk.js",
-    "static/js/2.5a15822b.chunk.js.map": "/homestuck-bookclub-guesses/static/js/2.5a15822b.chunk.js.map",
+    "static/js/2.e8a6aa2f.chunk.js": "/homestuck-bookclub-guesses/static/js/2.e8a6aa2f.chunk.js",
+    "static/js/2.e8a6aa2f.chunk.js.map": "/homestuck-bookclub-guesses/static/js/2.e8a6aa2f.chunk.js.map",
     "index.html": "/homestuck-bookclub-guesses/index.html",
-    "precache-manifest.b293f5fe1564cb74a292e339baa6f8cf.js": "/homestuck-bookclub-guesses/precache-manifest.b293f5fe1564cb74a292e339baa6f8cf.js",
+    "precache-manifest.0e300438ef67aafadd5c865d079b42b2.js": "/homestuck-bookclub-guesses/precache-manifest.0e300438ef67aafadd5c865d079b42b2.js",
     "service-worker.js": "/homestuck-bookclub-guesses/service-worker.js",
     "static/css/main.830c9fdf.chunk.css.map": "/homestuck-bookclub-guesses/static/css/main.830c9fdf.chunk.css.map",
-    "static/js/2.5a15822b.chunk.js.LICENSE.txt": "/homestuck-bookclub-guesses/static/js/2.5a15822b.chunk.js.LICENSE.txt"
+    "static/js/2.e8a6aa2f.chunk.js.LICENSE.txt": "/homestuck-bookclub-guesses/static/js/2.e8a6aa2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b7ce1ac.js",
-    "static/js/2.5a15822b.chunk.js",
+    "static/js/2.e8a6aa2f.chunk.js",
     "static/css/main.830c9fdf.chunk.css",
-    "static/js/main.1c826874.chunk.js"
+    "static/js/main.fb8ab80f.chunk.js"
   ]
 }
